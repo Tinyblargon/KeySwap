@@ -1,2 +1,3 @@
 # KeySwap
-Autohotkey script to swap keys
+
+AutoHotkey script to swap keys
